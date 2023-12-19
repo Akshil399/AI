@@ -1,2 +1,3 @@
-# AI
-Projects for AI
+# AI Informative Search 
+Projects for AI Informative Search 
+Informative Search
